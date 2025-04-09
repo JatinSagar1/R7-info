@@ -1,0 +1,30 @@
+#headingmain{
+    background-color: rgb(77, 77, 240);
+    color: rgb(51, 54, 76);
+    text-align: center;
+}
+
+#h2{
+    background-color: rgb(77, 77, 240);
+    color: rgb(51, 54, 76);
+    text-align: center;
+}
+
+#h4{
+    color: rgb(51, 54, 76);
+    text-align: center;
+}
+
+.para{
+    background-color: rgb(121, 169, 169);
+    color: azure;
+}
+
+.para2{
+    background-color: rgb(222, 113, 113);
+    color: rgb(60, 52, 52);
+}
+
+#about{
+    color: rgb(219, 188, 15);
+}
